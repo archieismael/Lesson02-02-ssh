@@ -1,3 +1,5 @@
 This is an edit from remote repository
 
 From Remote: Another edit from remote repository to test git pull / push
+
+From Local: Responding to Remote instruction and this edit confirms test git pull / push success
